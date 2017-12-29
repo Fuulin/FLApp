@@ -90,14 +90,22 @@ html, body {
 
 /* End Slider */
 
-.header-menu a {
+.header-menu a{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
+    vertical-align: middle;
 }
 
-.navbar-brand {
-    width: 300px;
-    height: 600px;
+.navbar-collapse{
+    height: 50px; 
+}
+
+.navbar-right li {
+    
+}
+
+.navbar-brand img{
+    width: 50px;
 }
 
 .navbar-brand > span {
